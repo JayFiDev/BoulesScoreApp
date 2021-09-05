@@ -35,16 +35,13 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Keep Track
-    description                           : Keep track of your yearly running goal and stay active.
-    fontawesome_icon_name                 : running
+    description                           : Keep track of your current score
+    fontawesome_icon_name                 : edit
     
-  - title                                 : Stay Active
-    description                           : Dark and light mode are supported
+  - title                                 : Customizable
+    description                           : Dark and light mode are supported, choose your colors
     fontawesome_icon_name                 : lightbulb
 
-  - title                                 : Always in Sight
-    description                           : Use the widget to have your goal always on your mind.
-    fontawesome_icon_name                 : eye
 
 
 # Theme Settings
