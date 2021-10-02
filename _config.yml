@@ -41,6 +41,10 @@ features                                  :
   - title                                 : Customizable
     description                           : Dark and light mode are supported, choose your colors
     fontawesome_icon_name                 : lightbulb
+    
+  - title                                 : Apple Watch application
+    description                           : Use the application while playing - no phone needed
+    fontawesome_icon_name                 : clock
 
 
 
