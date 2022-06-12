@@ -7,6 +7,12 @@ include_in_header: true
 
 ### `Changelog`
 
+# **Version 1.7**
+Game History is now available, further improvements to communication between iPhone and Apple Watch.
+
+# **Version 1.6**
+Update to look and feel of the application.
+
 # **Version 1.5**
 Added the ability to play other styles with more players or tracking multiple games at once.
 
