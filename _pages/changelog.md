@@ -7,6 +7,9 @@ include_in_header: true
 
 ### `Changelog`
 
+# **Version 1.8**
+Improvements to some visual details. Expandation of game history section of the app.
+
 # **Version 1.7**
 Game History is now available, further improvements to communication between iPhone and Apple Watch.
 
