@@ -7,6 +7,12 @@ include_in_header: true
 
 ### `Changelog`
 
+# **Version 2.0**
+New design and improved syncing using coredata/icloud sync
+
+# **Version 1.9**
+Added game timer and ability to export/import your game history
+
 # **Version 1.8**
 Improvements to some visual details. Expandation of game history section of the app.
 
