@@ -7,11 +7,14 @@ include_in_header: true
 
 ### `Changelog`
 
+# **Version 2.1**
+New layout for watchOS 10 like UI on Apple Watch. Small tweaks and improvements.
+
 # **Version 2.0**
-New design and improved syncing using coredata/icloud sync
+New design and improved syncing using coredata/icloud sync.
 
 # **Version 1.9**
-Added game timer and ability to export/import your game history
+Added game timer and ability to export/import your game history.
 
 # **Version 1.8**
 Improvements to some visual details. Expandation of game history section of the app.
