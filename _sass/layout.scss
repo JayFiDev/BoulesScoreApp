@@ -339,9 +339,19 @@ nav > ul li a:active {
 	filter: $drop-shadow;
 }
 
+.buyMeACoffeeButtonsContainer {
+	display: inline-block;
+	margin-top: 42px;
+	filter: $drop-shadow;
+}
+
 @media only screen and (max-width: 992px) {
 
 	.downloadButtonsContainer {
+		text-align: center;
+	}
+
+	.buyMeACoffeeButtonsContainer {
 		text-align: center;
 	}
 	
