@@ -335,18 +335,18 @@ nav > ul li a:active {
 
 .downloadButtonsContainer {
 	display: inline-block;
-	margin-top: 42px;
+	margin-top: 32px;
 	filter: $drop-shadow;
 }
 
 .buyMeACoffeeButtonsContainer {
 	display: inline-block;
-	margin-top: 42px;
+	margin-top: 32px;
 	margin-left: 42px;
 	filter: $drop-shadow;
 }
 
-.buyMeACoffeeButtonsContainer a:link {color:#FFFFFF;}
+.buyMeACoffeeButtonsContainer a:any-link {color:#FFFFFF;}
 
 @media only screen and (max-width: 992px) {
 
