@@ -7,6 +7,9 @@ include_in_header: true
 
 ### `Changelog`
 
+# **Version 2.2**
+Improved timer and stopwatch use from the main screen, updates to colors and texts
+
 # **Version 2.1**
 New layout for watchOS 10 like UI on Apple Watch. Small tweaks and improvements.
 
