@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Jürgen Fink-Metz                         
 your_link                                 : https://github.com/JayFiDev               
-your_city                                 : Stuttgart                             
+your_city                                 : Reichenbach                             
 email_address                             : dev@metz.social
 facebook_username                         :                                           
 instagram_username                        : 
@@ -57,7 +57,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : combined_small
 
 body_background_color                     : "#ffffff"
 
