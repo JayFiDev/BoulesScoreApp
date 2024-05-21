@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 title: What's New
 include_in_header: true
@@ -6,6 +6,17 @@ include_in_header: true
 
 
 ### `Changelog`
+# **Version 2024.2**
+New app icons
+
+# **Version 2.5**
+Translations (French, german) are now available
+
+# **Version 2.4**
+Small bugfixes
+
+# **Version 2.3**
+Small updates to almost every screen. Lots of refinement.
 
 # **Version 2.2**
 Improved timer and stopwatch use from the main screen, updates to colors and texts
